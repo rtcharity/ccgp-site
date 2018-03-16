@@ -7,29 +7,29 @@ DefaultContentLanguage = "en"
 # Metadata
 [params]
 
-  [languages]
-  [languages.en]
-  languageCode = "en"
-  title = "China Center for Global Priorities"
-  author = "Your name"
-  description = "Cool description"
+[languages]
+[languages.en]
+languageCode = "en"
+title = "China Center for Global Priorities"
+author = "Your name"
+description = "Cool description"
 
-  [languages.zh]
-  languageCode = "zh"
-  title = "CHINESE China Center for Global Priorities"
-  author = "CHINESE Your name"
-  description = "CHINESE Cool description"
+[languages.zh]
+languageCode = "zh"
+title = "CHINESE China Center for Global Priorities"
+author = "CHINESE Your name"
+description = "CHINESE Cool description"
 
 # Hero section (from here on is for icon theme)
-  [languages.en.hero]
-  img = "images/hero_bg.jpg"
-  title = "China Center for Global Priorities"
-  description = "China Center for Global Priorities is a private think tank dedicated to make progress on the most pressing global problems. The Center aims to coordinate between Chinese and international organisations to reduce global catastrophic risks (in particular risks from advanced artificial intelligence and engineered pathogens), inform global priorities research and improve farm animal welfare as our key priorities."
+[languages.en.hero]
+img = "images/hero_bg.jpg"
+title = "China Center for Global Priorities"
+description = "China Center for Global Priorities is a private think tank dedicated to make progress on the most pressing global problems. The Center aims to coordinate between Chinese and international organisations to reduce global catastrophic risks (in particular risks from advanced artificial intelligence and engineered pathogens), inform global priorities research and improve farm animal welfare as our key priorities."
 
-  [languages.zh.hero]
-  img = "images/hero_bg.jpg"
-  title = "CHINESE China Center for Global Priorities"
-  description = "CHINESE China Center for Global Priorities is a private think tank dedicated to make progress on the most pressing global problems. The Center aims to coordinate between Chinese and international organisations to reduce global catastrophic risks (in particular risks from advanced artificial intelligence and engineered pathogens), inform global priorities research and improve farm animal welfare as our key priorities."
+[languages.zh.hero]
+img = "images/hero_bg.jpg"
+title = "CHINESE China Center for Global Priorities"
+description = "CHINESE China Center for Global Priorities is a private think tank dedicated to make progress on the most pressing global problems. The Center aims to coordinate between Chinese and international organisations to reduce global catastrophic risks (in particular risks from advanced artificial intelligence and engineered pathogens), inform global priorities research and improve farm animal welfare as our key priorities."
 
 # Navigation section
 [params.nav]
