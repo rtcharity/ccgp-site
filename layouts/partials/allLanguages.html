@@ -1,0 +1,9 @@
+<div class="language-switcher">
+    {{ $baseUrl := .Site.BaseURL }}
+    {{ $curLang := .Site.Language.Lang }}
+    {{ range .Site.Languages }}
+    <div class="language-item {{ if eq $curLang ( lower . ) }}active{{ end }}">
+      <a class="external" href="{{ $baseUrl }}{{ . }}">{{ . }}</a>
+    </div>
+    {{ end }}
+</div>
