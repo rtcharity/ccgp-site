@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rtcharity.github.io/ccgp-site/zh/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rtcharity.github.io/ccgp-site/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://rtcharity.github.io/ccgp-site/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/ccgp-site/zh/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rtcharity.github.io/ccgp-site/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://rtcharity.github.io/ccgp-site/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/ccgp-site/zh/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rtcharity.github.io/ccgp-site/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://rtcharity.github.io/ccgp-site/zh/tags/"
+                />
+  </url>
+  
+</urlset>
